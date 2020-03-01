@@ -1,0 +1,15 @@
+andrewartha 1981 
+Tabla 2 (pagina 1512)
+eficiencia y fase del orden cero y tambien la energy defect
+red sinusoidal de h/d=0.4 con incidencia normal de
+longitud de onda incidente de lambda/d=0.9
+d es el periodo de la red 
+h is the overall groove depth 
+Polarizacion p (TM) E(0)=0.3172, fase(0)=-4.65
+polarizacion s (TE) E(0)=0.5415, fase(0)=-20.58
+Es para una red perfectamente conductora (en la parte de abajo
+es perfectamente conductora). 
+
+
+sen(tita0n)=sen(tita)+nlambda/d
+nu*sen(tita1n)=sen(tita)+nlambda/d
